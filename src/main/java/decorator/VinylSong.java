@@ -2,7 +2,7 @@ package decorator;
 
 public class VinylSong extends SongDecorator {
 
-    public VinylSong(Song song) {
+    public VinylSong(SongComponent song) {
         super(song);
     }
 

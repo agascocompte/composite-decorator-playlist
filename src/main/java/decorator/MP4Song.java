@@ -2,7 +2,7 @@ package decorator;
 
 public class MP4Song extends SongDecorator {
 
-    public MP4Song(Song song) {
+    public MP4Song(SongComponent song) {
         super(song);
     }
 

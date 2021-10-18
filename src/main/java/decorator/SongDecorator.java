@@ -2,9 +2,9 @@ package decorator;
 
 public class SongDecorator implements SongComponent {
 
-    private Song song;
+    private SongComponent song;
 
-    public SongDecorator (Song song) {
+    public SongDecorator (SongComponent song) {
         this.song = song;
     }
 
