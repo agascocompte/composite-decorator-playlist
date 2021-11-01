@@ -1,7 +1,7 @@
-import strategy.ClassifierKmeans;
-import strategy.ClassifierKnn;
-import strategy.ClassifierSOM;
-import strategy.ContextSimple;
+import strategy_simple.ClassifierKmeans;
+import strategy_simple.ClassifierKnn;
+import strategy_simple.ClassifierSOM;
+import strategy_simple.ContextSimple;
 
 public class DemoStrategySimple {
 

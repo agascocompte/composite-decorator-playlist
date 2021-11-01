@@ -1,4 +1,4 @@
-package strategy;
+package strategy_double;
 
 public class ClassifierKnn implements Classifier {
     @Override

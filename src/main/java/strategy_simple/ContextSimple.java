@@ -1,4 +1,4 @@
-package strategy;
+package strategy_simple;
 
 public class ContextSimple {
     private Classifier classifierStrategy;
